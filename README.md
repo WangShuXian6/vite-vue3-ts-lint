@@ -17,5 +17,5 @@ You can learn more about Take Over mode [here](https://github.com/johnsoncodehk/
 
 #
 ```bash
-pnpm install -D @types/node @typescript-eslint/eslint-plugin @typescript-eslint/parser @vitejs/plugin-vue eslint eslint-config-prettier eslint-plugin-vue husky lint-staged postcss-html prettier stylelint stylelint-config-prettier stylelint-config-rational-order stylelint-config-recommended-vue stylelint-config-standard stylelint-prettier 
+pnpm install -D @types/node @typescript-eslint/eslint-plugin @typescript-eslint/parser @vitejs/plugin-vue eslint eslint-config-prettier eslint-plugin-vue husky lint-staged postcss-html prettier stylelint stylelint-config-prettier stylelint-config-rational-order stylelint-config-recommended-vue stylelint-config-standard stylelint-prettier postcss-less
 ```
