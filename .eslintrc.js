@@ -4,6 +4,7 @@ module.exports = {
     es2021: true,
     node: true
   },
+  // prettier 必须在最后以解决格式化冲突
   extends: ['eslint:recommended', 'plugin:vue/vue3-recommended', 'prettier'],
   parserOptions: {
     ecmaVersion: 13,
